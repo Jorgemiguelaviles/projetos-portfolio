@@ -1,0 +1,9 @@
+a{color:black;
+ font-size: 1.5rem;
+ padding:10px;
+ font-family: 'Itim', cursive;
+font-family: 'Share Tech', sans-serif;}
+
+a:link{color:#ffffff;}
+a:visited{color:#ffffff;}
+a:hover{color:black;}
